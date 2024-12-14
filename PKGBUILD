@@ -1,6 +1,6 @@
 # Maintainer: Oh, I don't think so.
 pkgname=winechad
-pkgver=2.1
+pkgver=2.2
 pkgrel=1
 epoch=
 pkgdesc='A utility for WINE prefix management'
